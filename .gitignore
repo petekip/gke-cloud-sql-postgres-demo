@@ -1,21 +1,11 @@
-# Files for Demo
-credentials.json
-.instance
-
-# OSX leaves these everywhere on SMB shares
-._*
-
-# OSX trash
-.DS_Store
-
-# Emacs save files
-*~
-\#*\#
-.\#*
-
-# Vim-related files
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
-*.un~
-Session.vim
-.netrwhist
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
